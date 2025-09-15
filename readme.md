@@ -2,6 +2,11 @@
 
 Projeto desenvolvido com foco em manipulação de dados e exibição de conteúdo visual relacionado ao universo Yu-Gi-Oh!, utilizando JavaScript, HTML e CSS. Ideal para praticar requisições a APIs, renderização dinâmica e organização de assets visuais.
 
+### 📸 Preview
+
+[Yugi-oh](https://gustavobarretolima.github.io/js-yugioh-assets/)
+
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barreto-5341a9217/)
