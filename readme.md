@@ -1,16 +1,23 @@
-# Projeto feito no Boot Camp Ri Happy + DIO
+# 🃏 JS Yu-Gi-Oh! Assets
 
-[![jogar](https://img.shields.io/badge/%20Jogar-green?style=for-the-badge)](https://gustavobarretolima.github.io/js-yugioh-assets/)
-Yugioh - Jo-Ken-PO Edition
+Projeto desenvolvido com foco em manipulação de dados e exibição de conteúdo visual relacionado ao universo Yu-Gi-Oh!, utilizando JavaScript, HTML e CSS. Ideal para praticar requisições a APIs, renderização dinâmica e organização de assets visuais.
 
 ## Conecte-se comigo
-
-#### Vamos se tornar amigos, trocar ideias, realizar projetos juntos, e buscar uma vaga no mercado de trabalho ^^.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barreto-5341a9217/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@taichou6633/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoBarretoLima)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gustavo.barreto.12327/)
+
+# 🧪 Funcionalidades
+
+🔍 Exibição de cartas com imagens e atributos
+
+🗂️ Organização de assets visuais
+
+🎨 Interface temática inspirada em Yu-Gi-Oh!
+
+📦 Preparado para integração com APIs externas
 
 ## Habilidades em desenvolvimento
 
@@ -26,4 +33,5 @@ Yugioh - Jo-Ken-PO Edition
 ## GitHub Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoBarretoLima&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoBarretoLima&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarretoLima&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
